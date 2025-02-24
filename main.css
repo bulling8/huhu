@@ -1,0 +1,118 @@
+body {
+    background-color: #2a2a2a;
+}
+
+.img {
+    width: 300px;
+    height: 200px;
+}
+
+.immg {
+    width: 600px;
+    height: 400px;
+    margin-left: 280px;
+}
+
+.input{
+    width: 209px;
+    height: 36px;
+    border-radius: 6px;
+    border-width: 1px;
+    background: #FFFFFF;
+    border: 1px solid #CED4DA;
+    font-weight: 400;
+    font-size: 15.88px;
+    line-height: 18.6px;
+    letter-spacing: 0%;
+    color: #6C757D;
+    margin-left: 70px;
+}
+
+.select{
+    width: 209px;
+    height: 36px;
+    border-radius: 6px;
+    border-width: 1px;
+    background: #FFFFFF;
+    border: 1px solid #CED4DA;
+    font-weight: 400;
+    font-size: 15.88px;
+    line-height: 18.6px;
+    letter-spacing: 0%;
+    color: #6C757D;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.btnn {
+    width: 211px;
+    height: 36px;
+    border-radius: 6px;
+    border-width: 1px;
+    background: #198754;
+    border: 1px solid #198754;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #fff;
+    text-align: center;
+}
+
+.kino__list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding-top: 60px;
+}
+
+.li {
+    width: 350px;
+    height: 450px;
+    border-radius: 10px;
+    background-color: #b4b4b4;
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    padding-top: 30px;
+    transition: 0.2s ease-in-out;
+}
+
+.li:hover {
+    background-color: #f6f65c;
+    cursor: pointer;
+    color: #6fc8ee;
+}
+
+.btn {
+    width: 300px;
+    height: 40px;
+    border-radius: 6px;
+    border-width: 1px;
+    background: #198754;
+    border: 1px solid #198754;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #fff;
+    text-align: center;
+}
+
+.ota{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
